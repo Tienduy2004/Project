@@ -12,7 +12,7 @@
 @extends('layouts.app') <!-- Extend the main layout -->
 
 @section('content')
-    <section id="Home">
+    {{-- <section id="Home">
 
         <div class="main anim">
 
@@ -42,7 +42,7 @@
 
         </div>
 
-    </section>
+    </section> --}}
 
 
 
